@@ -1,0 +1,35 @@
+# PowerShell scripts for git manipulation
+push_with_history.ps1
+full_month_push.ps1
+complete_january.ps1
+
+# Build artifacts
+build/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+
+# IDE files
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
