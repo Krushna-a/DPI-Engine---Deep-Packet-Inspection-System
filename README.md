@@ -1132,5 +1132,3 @@ This DPI engine demonstrates:
 3. **Flow Tracking** - Managing stateful connections
 4. **Multi-threaded Architecture** - Scaling with thread pools
 5. **Producer-Consumer Pattern** - Thread-safe queues
-
-The key insight is that even HTTPS traffic leaks the destination domain in the TLS handshake, allowing network operators to identify and control application usage.
